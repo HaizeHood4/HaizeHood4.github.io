@@ -40,10 +40,10 @@ $(function () {
     //createPlatform()
 
     // TODO 3 - Create Collectables
-    
-
+    createCollectables("mouse", 835, 600);
 
     // TODO 4 - Create Cannons
+    
 
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
