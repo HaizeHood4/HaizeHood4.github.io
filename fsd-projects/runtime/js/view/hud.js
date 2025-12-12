@@ -34,7 +34,7 @@
         hud = new createjs.Container();
         
         integrity = new createjs.Container();
-        background = draw.rect(104, 20, '#CCC');
+        background = draw.rect(104, 20, '#eb55c5ff');
         draw.rect(102, 18, '#FFF', null, null, 1, 1, background);
         integrity.addChild(background);
         
